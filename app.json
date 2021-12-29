@@ -1,5 +1,5 @@
 {
- "name": "Screenshot Bot",
+ "name": " Bot",
  "description": "Screenshot /Sample Video / Trim Video files",
  "logo": "https://telegra.ph/file/a3a32dcceb8201635c1f0.jpg",
  "keywords": [
@@ -9,7 +9,7 @@
    "Trim Video",
    "without downloading the entire file"
   ],
-  "repository": "https://github.com/TGExplore/Screenshot-Bot",
+  "repository": "https://github.com/shiva2099/screenshot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
